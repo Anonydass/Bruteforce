@@ -35,13 +35,17 @@ Instadevil is A bruteForce attacking tool
 #### Its 💯 working tool i uploaded video telegram and Youtube
 ## Single line command:
 ```
-apt update && apt upgrade && apt install git -y && git clone https://github.com/MrHacker-X/BruteX.git/ && cd BruteX && chmod +x * && bash setup.sh && python brutex.py
+apt update && apt upgrade && apt install git -y && git clone https://github.com/Anonydass/instadevil.git && cd Instadevil && chmod +x * && python3 main.py
 ```
 #### Follow My Pages
 #### Created By : Anonydass2.0
 
-<h3><b><i>ðŸ“¡ Connect with us :</i></b></h3>
-<a href="https://github.com/anonydass/"></a>
-<a href="https://instagram.com/anonydass/"></a>
-<a href="https://t.me/anonydass2.0/"></a>
-<a href="https://youtube.com/channel/UC1mkQPzyLpD580S2GvKt7GA/"></a>
+Youtube: https://youtube.com/channel/UC1mkQPzyLpD580S2GvKt7GA
+
+Telegram: https://telegram.me/Anonydass20
+
+GitHub: https://github.com/Anonydass
+
+Instagram: @anonydass
+
+Gmail: samugaydass@gmail.com
