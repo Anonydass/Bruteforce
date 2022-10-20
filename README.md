@@ -25,7 +25,7 @@ Instadevil is A bruteForce attacking tool
 + ```apt install git -y```
 + ```apt install python-y```
 + ```apt install python 3-y```
-+ ```git clone https://github.com/MrHacker-X/BruteX.git/```
++ ```git clone https://github.com/Anonydass/instadevil.git```
 + ```cd instadevil```
 + ```pip install -r requirements.txt```
 + ```chmod +x *``` 
@@ -48,4 +48,4 @@ GitHub: https://github.com/Anonydass
 
 Instagram: @anonydass
 
-Gmail: samugaydass@gmail.com
+
